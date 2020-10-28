@@ -1,2 +1,2 @@
 # docker-springboot-mongo
-Simple Java spring boot microservices project with MongoDB dockerized 
+Java spring boot microservices project with MongoDB dockerized 
