@@ -32,4 +32,6 @@ Java spring boot microservices project with MongoDB dockerized
  4. Build and Run Department service  
       **docker build -t department-serv:1.0.0 .**  
       (Run it inside Department-Service folder)  
-      **docker container run -p 7070:7070 --network mynetwork  --name department-serv department-serv:1.0.0**
+      **docker container run -p 7272:7272 --network mynetwork  --name department-serv department-serv:1.0.0**
+      
+ You can access http://localhost:7272 and http://localhost:7070
